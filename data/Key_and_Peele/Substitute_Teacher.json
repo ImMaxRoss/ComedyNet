@@ -1,0 +1,142 @@
+{ 
+  "Meta Features": {
+    "Duration": "3:01",
+    "Air Date": "2012-10-17",
+    "Group/Show/Creator": "Key & Peele",
+    "Cast": {
+      "Keegan-Michael Key": {
+        "role": "Substitute Teacher",
+        "character name":"Mr Garvey",
+        "screen_time": 168
+      },
+      "Jordan Peele": {
+        "role": "Student",
+        "character name":"Aaron",
+        "screen_time": 12
+      }
+    },
+    "Crew": {
+      "Peter Atencio": {
+        "role": "Director"
+      },
+      "Rebecca Drysdale": {
+        "role": "writer"
+      },
+      "Colton Dunn": {
+        "role": "writer"
+      },
+      "Keegan-Michael Key": {
+        "role": "writer"
+      },
+      "Phil Augusta Jackson": {
+        "role": "writer"
+      },
+      "Jay Martel": {
+        "role": "writer"
+      },
+      "Jordan Peele": {
+        "role": "writer"
+      },
+      "Ian Roberts": {
+        "role": "writer"
+      },
+      "Alex Rubens": {
+        "role": "writer"
+      },
+      "Charlie Sanders": {
+        "role": "writer"
+      }
+    },
+    "Production Style": "single-camera"
+  },
+  "Comedy Features": {
+    "Premise": {
+      "Base Reality": {
+        "Characters": {
+          "Mr. Garvey": "Black, middle-aged, substitute teacher from the inner city, who doesn't take no shit",
+          "Students": "Group of white high school students"
+        },
+        "Relationships": "Teacher & Students",
+        "Genre": "Workplace",
+        "Time Period": "Modern",
+        "Social Context": "Professional (school setting) with racial tension"
+      },
+      "Situation": "A tough inner-city substitute teacher mispronounces students’ names while taking roll in a predominantly white classroom."
+    },
+    "Game of The Scene": {
+      "First Unusual Thing": {
+        "description": "Teacher mispronounces 'Jacqueline' as 'Jay Quellin'",
+        "timestamp": "0:18"
+      },
+      "Framing of Unusual Thing": {
+        "method": "dialogue",
+        "description": "Student corrects him: 'Do you mean Jacqueline?'",
+        "timestamp": "0:29"
+      },
+      "Justification of Unusual Thing": {
+        "Justification Provided?": "Y",
+        "type": "implicit",
+        "justification": "... I TAUGHT SCHOOL FOR 20 YEARS IN THE INNER CITY, SO DON'T EVEN THINK ABOUT MESSING WITH ME.",
+        "timestamp": "0:02-0:15"
+      },
+      "Game of The Scene Label": {
+        "Dominant Game Type": "Big Character",
+        "Game Label Concise description": "What if a tough, black substitute teacher from the inner city pronounced all white students' names as if they were black names?",
+        "Boolean - Game Label Explicitly said/Shown?": false,
+        "Label/Tagline of the Game Used": ""
+      }
+    },
+    "Joke Beats": [
+      {
+        "Joke Beat #": 1,
+        "Joke Beat Funny Filters": {"1":"Character", "2":"Wordplay", "3": "Irony", "4": "Parody"},
+        "Joke Beat Tagline Dialogue &/Or Action of Characters Involved": "Mr. Garvey mispronounces 'Jacqueline' as 'Jay Quellin', then threatens the student when corrected",
+        "Joke Beat Escalation": "No",
+        "Joke Beats Timestamp": "0:18-0:44"
+      },
+      {
+        "Joke Beat #": 2,
+        "Joke Beat Funny Filters": {"1":"Character", "2":"Shock", "3": "Wordplay", "4": "Irony", "5": "Parody"},
+        "Joke Beat Tagline Dialogue &/Or Action of Characters Involved": "Mispronounces 'Blake' as 'Balakay', mocks student's pronunciation, threatens war",
+        "Joke Beat Escalation": "Yes",
+        "Joke Beats Timestamp": "0:44-1:14"
+      },
+      {
+        "Joke Beat #": 3,
+        "Joke Beat Funny Filters": {"1":"Character", "2":"Madcap", "3": "Shock", "4": "Wordplay", "5": "Irony", "6": "Parody"},
+        "Joke Beat Tagline Dialogue &/Or Action of Characters Involved": "Mispronounces 'Denise' as 'Dee-nice', breaks clipboard, forces student to say name 'correctly'",
+        "Joke Beat Escalation": "Yes",
+        "Joke Beats Timestamp": "1:14-1:44"
+      },
+      {
+        "Joke Beat #": 4,
+        "Joke Beat Funny Filters": {"1":"Character", "2":"Madcap", "3": "Irony", "4": "Wordplay", "5": "Shock", "6": "Parody"},
+        "Joke Beat Tagline Dialogue &/Or Action of Characters Involved": "Mispronounces 'Aaron' as 'Ay-Ay-Ron', sweeps items off desk, expels student",
+        "Joke Beat Escalation": "Yes",
+        "Joke Beats Timestamp": "1:44-2:20"
+      },
+      {
+        "Joke Beat #": 5,
+        "Joke Beat Funny Filters": {"1":"Hyperbole", "2":"Madcap", "3": "Wordplay", "4": "Character", "5": "Irony", "6": "Shock", "7": "Parody"},
+        "Joke Beat Tagline Dialogue &/Or Action of Characters Involved": "Mispronounces principal's name as 'Oh-Shag-Hennessy'",
+        "Joke Beat Escalation": "Yes",
+        "Joke Beats Timestamp": "2:20-2:39"
+      }
+    ],
+    "Tagline": {
+      "Tagline Funny Filters": "Irony",
+      "Tagline Dialogue &/Or Action of Characters Involved": "Mr. Garvey says 'Thank you!' with relief when black student responds 'PREE-zent'",
+      "Tagline Unexpected": true,
+      "Unexpectedness Method": "subverted trope"
+    },
+    "Subtext": {
+      "Subject": "Cultural differences",
+      "Opinion": "It's frustrating that black and white cultures don't understand each other"
+    },
+    "Funny Filters": {
+      "Primary": "Character",
+      "Secondary": ["Madcap", "Wordplay"],
+      "tertiary": ["Irony", "Hyperbole", "Parody", "Shock", "Misplaced Focus", "Reference", "Metahumor"]
+    }
+  }
+}
